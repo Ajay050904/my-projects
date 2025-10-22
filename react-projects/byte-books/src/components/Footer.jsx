@@ -49,7 +49,7 @@ const Footer = () => {
           {/* <a href="https://pinterest.com" target="_blank" rel="noopener noreferrer" className="social-icon pinterest"></a> */}
           <a href="https://youtube.com" target="_blank" rel="noopener noreferrer" className="social-icon youtube"></a>
         </div>
-        <p>Copyright © 2024 . ByteBooks.com. All Rights Reserved</p>
+        <p>Copyright © 2025 . ByteBooks.com . All Rights Reserved</p>
       </div>
     </footer>
   );
