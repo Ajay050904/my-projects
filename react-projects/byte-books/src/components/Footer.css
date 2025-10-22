@@ -1,0 +1,101 @@
+.footer {
+    background-color: #f9f9f9;
+    padding: 25px 35px;
+    font-family: Arial, sans-serif;
+    color: #333;
+}
+
+.footer-container {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-bottom: 20px;
+}
+
+.footer-section {
+    flex: 1;
+    margin: 0 15px;
+}
+
+.footer-heading {
+    font-size: 16px;
+    font-weight: bold;
+    color: #d32f2f;
+    margin-bottom: 10px;
+}
+
+.footer-section ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.footer-section ul li {
+    margin-bottom: 5px;
+}
+
+.footer-section ul li a {
+    text-decoration: none;
+    color: #333;
+    font-size: 14px;
+    transition: color 0.3s;
+}
+
+.footer-section ul li a:hover {
+    color: #d32f2f;
+}
+
+.footer-bottom {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-top: 1px solid #ddd;
+    padding-top: 10px;
+}
+
+.social-icons {
+    display: flex;
+}
+
+.social-icon {
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+    display: inline-block;
+    background-size: contain;
+    background-repeat: no-repeat;
+    transition: transform 0.3s;
+}
+
+.social-icon:hover {
+    transform: scale(1.2);
+}
+
+.facebook {
+    background-image: url('https://cdn-icons-png.flaticon.com/512/733/733547.png');
+}
+
+.twitter {
+    background-image: url('https://cdn-icons-png.flaticon.com/512/733/733579.png');
+}
+
+.linkedin {
+    background-image: url('https://cdn-icons-png.flaticon.com/512/733/733561.png');
+}
+
+.pinterest {
+    background-image: url('https://cdn-icons-png.flaticon.com/512/733/733558.png');
+}
+
+.youtube {
+    background-image: url('https://cdn-icons-png.flaticon.com/512/733/733646.png');
+}
+
+.instagram {
+    background-image: url('https://cdn-icons-png.flaticon.com/512/733/733558.png');
+}
+
+.footer-bottom p {
+    margin: 0;
+    font-size: 14px;
+}
