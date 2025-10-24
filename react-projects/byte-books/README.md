@@ -30,3 +30,19 @@ ByteBooks is a simple static React website designed to display a collection of b
 
 ### 📦 Project Structure
 
+```
+    byte-books/
+    ├─ src/
+    │ ├─ components/
+    │ │ ├─ Navbar.jsx
+    │ │ ├─ Footer.jsx
+    │ ├─ assets/
+    │ ├─ App.jsx
+    │ └─ index.js
+    ├─ public/
+    ├─ package.json
+```
+### 🚀 How to Run Locally
+
+    npm install     
+    npm run dev
