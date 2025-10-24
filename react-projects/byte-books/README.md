@@ -1,8 +1,32 @@
-# React + Vite
+# 📚 ByteBooks
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+ByteBooks is a simple static React website designed to display a collection of books on the homepage. Each book includes its price along with an "Add to Cart" button to simulate a basic e-commerce experience.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### 🌐 Live Demo  
+🔗 Netlify Link: *Add your live hosted link here*  
+
+---
+
+### 🎯 Features
+
+✅ Fully responsive and clean UI  
+✅ Navbar with navigation links: Home, Shop, About, Contact  
+✅ Book listing section with title, price & add-to-cart functionality  
+✅ Footer with company info and social media icons  
+✅ Static front-end only — no backend or database required  
+
+---
+
+### 🛠️ Technologies Used
+
+- React.js
+- HTML5, CSS3
+- JavaScript (ES6+)
+- Vite (for fast bundling & dev server)
+
+---
+
+### 📦 Project Structure
+
