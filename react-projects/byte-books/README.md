@@ -5,7 +5,7 @@ ByteBooks is a simple static React website designed to display a collection of b
 ---
 
 ### 🌐 Live Demo  
-🔗 Netlify Link: *Add your live hosted link here*  
+🔗 Netlify Link: 
 
 ---
 
@@ -32,14 +32,21 @@ ByteBooks is a simple static React website designed to display a collection of b
 
 ```
     byte-books/
+    ├─ node_modules/
+    ├─ public/
     ├─ src/
+    │ ├─ assets/
+    │ │ ├─ images/
+    │ │ ├─ logo.svg
+    │ │ ├─ react.svg
     │ ├─ components/
     │ │ ├─ Navbar.jsx
     │ │ ├─ Footer.jsx
-    │ ├─ assets/
+    │ │ ├─ Bookcard.jsx
+    │ ├─ App.css
     │ ├─ App.jsx
-    │ └─ index.js
-    ├─ public/
+    │ └─ index.css
+    │ └─ main.jsx
     ├─ package.json
 ```
 ### 🚀 How to Run Locally
