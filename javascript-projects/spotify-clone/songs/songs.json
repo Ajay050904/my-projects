@@ -1,0 +1,19 @@
+{
+    "ncs": {
+        "title": "NCS Playlist",
+        "description": "Best NCS songs",
+        "cover": "/songs/ncs/cover.jpg",
+        "songs": [
+            {
+                "file": "song1.mp3",
+                "title": "Song One",
+                "artist": "Arijit Singh"
+            },
+            {
+                "file": "song2.mp3",
+                "title": "Song Two",
+                "artist": "Arijit Singh"
+            }
+        ]
+    }
+}
