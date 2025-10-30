@@ -1,0 +1,30 @@
+SQL> conn sys as sysdba;
+Enter password:
+Connected.
+SQL> create user student identified by student;
+
+User created.
+
+SQL> grant dba to student;
+
+Grant succeeded.
+
+SQL> conn
+Enter user-name: student
+Enter password:
+Connected.
+SQL> show user;
+USER is "STUDENT"
+SQL> create table student(rollnumber number(10) primary key,sname varchar2(15),totmarks number(5,2),grade varchar2(2),result varchar2(10));
+
+Table created.
+
+SQL> create sequence rno start with 230180001;
+
+Sequence created.
+
+ select * from student;
+
+ROLLNUMBER SNAME             TOTMARKS GR RESULT
+---------- --------------- ---------- -- ----------
+ 230180001 Aryan                  427 A  PASS
