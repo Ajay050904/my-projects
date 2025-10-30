@@ -1,15 +1,20 @@
 // For format details, see https://aka.ms/devcontainer.json. For config options, see the
 // README at: https://github.com/devcontainers/templates/tree/main/src/javascript-node
 {
-	"name": "Node.js",
+	"name": "Node.js + Java",
 	"image": "mcr.microsoft.com/devcontainers/javascript-node:1-22-bookworm",
 	"features": {
-		"ghcr.io/nikiforovall/devcontainer-features/dotnet-csharpier:1": {}
+		"ghcr.io/nikiforovall/devcontainer-features/dotnet-csharpier:1": {},
+		// ✅ Add this line to include Java (you can set version)
+		"ghcr.io/devcontainers/features/java:1": {
+			"version": "21"
+		}
 	},
 	"customizations": {
 		"vscode": {
 			"extensions": [
-				"ritwickdey.LiveServer"
+				"ritwickdey.LiveServer",
+				"vscjava.vscode-java-pack" // ✅ Adds Java language support
 			]
 		}
 	}
