@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 import com.bytecode.entity.Book;
 import com.bytecode.entity.User;
-import com.bytecode.exception.BookNotFoundException;
+// import com.bytecode.exception.BookNotFoundException;
 import com.bytecode.exception.InvalidOptionException;
 import com.bytecode.service.BookSearchTask;
 import com.bytecode.service.impl.LibraryServiceImpl;
@@ -69,6 +69,7 @@ public class LMSApp {
 
 			default:
 				try {
+					scanner.close();
 					throw new InvalidOptionException("Please enter valid choice");
 				} catch (InvalidOptionException exception) {
 					System.out.println(exception.getMessage());
