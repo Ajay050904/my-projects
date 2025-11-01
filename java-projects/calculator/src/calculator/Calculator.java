@@ -414,6 +414,7 @@ public class Calculator implements ActionListener{
         
     }
 
+    // to on the calculator
     public void enable(){
         onRadioButton.setEnabled(false);
         offRadioButton.setEnabled(true);
@@ -441,6 +442,7 @@ public class Calculator implements ActionListener{
         buttonReciprocal.setEnabled(true);
     }
 
+    // to off the calculator
     public void disable()
     {
         onRadioButton.setEnabled(true);
