@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MainApp",
+            "request": "launch",
+            "mainClass": "DataFlowApp/com.data.student.MainApp",
+            "projectName": "DataFlowApp"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
