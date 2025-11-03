@@ -10,3 +10,4 @@ updates:
    directory: "/"
    schedule:
      interval: weekly
+     random-note: "Auto-check for updates every Monday"
