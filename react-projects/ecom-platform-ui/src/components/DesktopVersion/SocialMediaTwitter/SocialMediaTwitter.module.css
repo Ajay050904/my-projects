@@ -1,0 +1,28 @@
+.root {
+  position: relative;
+  width: 36px;
+  height: 36px;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.rectangle71 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  border-radius: 12px;
+  background-color: #f6f6f6;
+}
+.vector {
+  position: absolute;
+  left: 30.7695%;
+  right: 21.1538%;
+  top: 30.7691%;
+  bottom: 30.1837%;
+  overflow: visible;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}

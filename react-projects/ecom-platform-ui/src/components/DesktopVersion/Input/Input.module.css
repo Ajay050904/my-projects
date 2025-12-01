@@ -1,0 +1,32 @@
+.badge.badge {
+  z-index: 0;
+}
+.root {
+  width: min-content;
+  height: 36px;
+  align-items: center;
+  gap: 56px;
+  padding: 12px;
+  outline: solid 1px #b4b4b4;
+  outline-offset: -1px;
+  border-radius: 4px;
+  background-color: #fff;
+}
+.iconText {
+  z-index: 0;
+  width: min-content;
+  height: min-content;
+  align-items: center;
+  gap: 8px;
+}
+.inputText {
+  color: #666;
+  font-size: 14px;
+  line-height: 24px;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}

@@ -1,0 +1,19 @@
+.root {
+  position: relative;
+  width: 15px;
+  height: 15px;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.badge {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  overflow: visible;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}

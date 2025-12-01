@@ -1,0 +1,19 @@
+.root {
+  position: relative;
+  width: 18px;
+  height: 14px;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.truck {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  overflow: visible;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}

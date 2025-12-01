@@ -1,0 +1,1388 @@
+.socialMediaFacebook.socialMediaFacebook {
+  width: 24px;
+  height: 24px;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.socialMediaInstagarm.socialMediaInstagarm {
+  width: 24px;
+  height: 24px;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+.socialMediaTwitter.socialMediaTwitter {
+  width: 24px;
+  height: 24px;
+}
+.icon3 {
+  width: 100%;
+  height: 100%;
+}
+.badge.badge {
+  width: 15px;
+  height: 15px;
+}
+.icon4 {
+  width: 100%;
+  height: 100%;
+}
+.inputText {
+  color: #fff;
+  font-size: 14px;
+  line-height: 24px;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.badge2.badge2 {
+  width: 15px;
+  height: 15px;
+}
+.icon5 {
+  width: 100%;
+  height: 100%;
+}
+.inputText2 {
+  color: #fff;
+  font-size: 14px;
+  line-height: 24px;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.input.input {
+  height: 38px;
+}
+.badge3.badge3 {
+  width: 15px;
+  height: 15px;
+}
+.icon6 {
+  width: 100%;
+  height: 100%;
+}
+.inputText3 {
+  color: #666;
+  font-size: 14px;
+  line-height: 24px;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.input2.input2 {
+  height: 38px;
+}
+.badge4.badge4 {
+  z-index: 0;
+  width: 15px;
+  height: 15px;
+}
+.icon7 {
+  width: 100%;
+  height: 100%;
+}
+.input3.input3 {
+  height: 38px;
+}
+.badge5.badge5 {
+  z-index: 0;
+  width: 15px;
+  height: 15px;
+}
+.icon8.icon8 {
+  left: calc(50% - -0.5833px);
+  top: calc(50% - -0.5833px);
+}
+.icon8 {
+  left: calc(50% - -0.5833px);
+  top: calc(50% - -0.5833px);
+}
+.icon9 {
+  width: 100%;
+  height: 100%;
+}
+.heading.heading {
+  width: initial;
+  align-self: stretch;
+}
+.writeTitleHere {
+  color: #666;
+  font-size: 20px;
+  line-height: 150%;
+  font-weight: bold;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.inputText4 {
+  color: #fff;
+  font-size: 14px;
+  line-height: 24px;
+  font-weight: 600;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.badge6.badge6 {
+  width: 15px;
+  height: 15px;
+}
+.icon10 {
+  width: 100%;
+  height: 100%;
+}
+.arrows.arrows {
+  width: 40px;
+  height: 40px;
+}
+.icon11 {
+  width: 100%;
+  height: 100%;
+}
+.image.image {
+  background-image:/* webpackIgnore: true */ url('/assets/image2.png');
+}
+.image2.image2 {
+  background-image:/* webpackIgnore: true */ url('/assets/image3.png');
+}
+.image3.image3 {
+  background-image:/* webpackIgnore: true */ url('/assets/image4.png');
+}
+.image4.image4 {
+  background-image:/* webpackIgnore: true */ url('/assets/image5.png');
+}
+.writeTitleHere2 {
+  color: #666;
+  font-size: 36px;
+  line-height: 150%;
+  font-weight: bold;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.image5.image5 {
+  background-image:/* webpackIgnore: true */ url('/assets/image6.png');
+}
+.image6.image6 {
+  background-image:/* webpackIgnore: true */ url('/assets/image7.png');
+}
+.image7.image7 {
+  background-image:/* webpackIgnore: true */ url('/assets/image8.png');
+}
+.image8.image8 {
+  background-image:/* webpackIgnore: true */ url('/assets/image9.png');
+}
+.image9.image9 {
+  background-image:/* webpackIgnore: true */ url('/assets/image10.png');
+}
+.image10.image10 {
+  background-image:/* webpackIgnore: true */ url('/assets/image11.png');
+}
+.image11.image11 {
+  background-image:/* webpackIgnore: true */ url('/assets/image12.png');
+}
+.image12.image12 {
+  background-image:/* webpackIgnore: true */ url('/assets/image13.png');
+}
+.image13.image13 {
+  background-image:/* webpackIgnore: true */ url('/assets/image14.png');
+}
+.image14.image14 {
+  background-image:/* webpackIgnore: true */ url('/assets/image15.png');
+}
+.inputText5 {
+  color: #fff;
+  font-size: 14px;
+  line-height: 24px;
+  font-weight: 600;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  z-index: 0;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.badge7.badge7 {
+  z-index: 0;
+  width: 15px;
+  height: 15px;
+}
+.icon12 {
+  width: 100%;
+  height: 100%;
+}
+.ecommerceUser.ecommerceUser {
+  width: 50px;
+  height: 50px;
+}
+.icon13 {
+  width: 100%;
+  height: 100%;
+}
+.ecommerceTruck.ecommerceTruck {
+  width: 50px;
+  height: 40px;
+}
+.icon14 {
+  width: 100%;
+  height: 100%;
+}
+.ecommerceMyOrders.ecommerceMyOrders {
+  width: 50px;
+  height: 50px;
+}
+.icon15 {
+  width: 100%;
+  height: 100%;
+}
+.ecommerceFreeShippingReturns.ecommerceFreeShippingReturns {
+  width: 50px;
+  height: 50px;
+}
+.icon16 {
+  width: 100%;
+  height: 100%;
+}
+.root {
+  flex: 1;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+  background-color: #f9f9f9;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+.header {
+  position: relative;
+  height: 153px;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  overflow: hidden;
+}
+.topbar {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 1440px;
+  height: 58px;
+  flex-direction: column;
+  align-items: flex-start;
+  background-color: #438db8;
+  overflow: hidden;
+}
+.container {
+  position: absolute;
+  left: 100px;
+  top: 0;
+  width: 1242px;
+  height: min-content;
+  justify-content: space-between;
+  align-items: center;
+  gap: 172px;
+  padding: 13px 0;
+  overflow: hidden;
+}
+.socialMedia {
+  width: 170px;
+  height: min-content;
+  justify-content: space-between;
+  align-items: center;
+  gap: 10px;
+}
+.followUs {
+  color: #fff;
+  font-size: 14px;
+  line-height: 24px;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.winterIsComing50OffForNewYear {
+  color: #fff;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 600;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.contactUs {
+  width: 362px;
+  height: min-content;
+  justify-content: space-between;
+  align-items: center;
+  gap: 137px;
+}
+.container2 {
+  position: absolute;
+  left: 50%;
+  top: 88px;
+  width: 1242px;
+  height: min-content;
+  justify-content: space-between;
+  align-items: center;
+  gap: 187px;
+  transform: translateX(-50%);
+}
+.mansoury {
+  color: #438db8;
+  font-size: 36px;
+  line-height: 28.48px;
+  font-weight: bold;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.02em;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.navbar {
+  width: min-content;
+  height: min-content;
+  align-items: flex-start;
+  gap: 10px;
+}
+.li {
+  width: min-content;
+  height: min-content;
+  padding: 0 10px;
+}
+.home {
+  color: #666;
+  font-size: 18px;
+  line-height: 24px;
+  font-weight: 600;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.li2 {
+  width: min-content;
+  height: min-content;
+  padding: 0 10px;
+}
+.products {
+  color: #666;
+  font-size: 18px;
+  line-height: 24px;
+  font-weight: 600;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.li3 {
+  width: min-content;
+  height: min-content;
+  padding: 0 10px;
+}
+.pages {
+  color: #666;
+  font-size: 18px;
+  line-height: 24px;
+  font-weight: 600;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.li4 {
+  width: min-content;
+  height: min-content;
+  padding: 0 10px;
+}
+.aboutUs {
+  color: #666;
+  font-size: 18px;
+  line-height: 24px;
+  font-weight: 600;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.li5 {
+  width: min-content;
+  height: min-content;
+  padding: 0 10px;
+}
+.contactUs2 {
+  color: #666;
+  font-size: 18px;
+  line-height: 24px;
+  font-weight: 600;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.btns {
+  width: 254px;
+  height: min-content;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 9px;
+}
+.slider {
+  position: relative;
+  width: 1440px;
+  height: 596px;
+  flex-direction: column;
+  align-items: flex-start;
+  background-image:/* webpackIgnore: true */ url('/assets/slider.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow: hidden;
+}
+.enhanceYourHomeWithConvenience {
+  color: #fff;
+  font-size: 48px;
+  line-height: 150%;
+  font-weight: bold;
+  font-family: Lato, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: calc(50% - 1px);
+  top: calc(50% - 211px);
+  width: 1032px;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  text-shadow: 0px 0px 8px #00000040;
+  flex-direction: column;
+  transform: translate(-50%, -50%);
+}
+.bullets {
+  position: absolute;
+  left: calc(50% - 1.4286px);
+  top: 530px;
+  width: 148px;
+  height: min-content;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 11px;
+  transform: translateX(-50%);
+}
+.rectangle745 {
+  width: 42px;
+  height: 6px;
+  background-color: #438db8;
+}
+.rectangle746 {
+  width: 42px;
+  height: 6px;
+  background-color: #438db8;
+}
+.rectangle747 {
+  width: 42px;
+  height: 6px;
+  background-color: #fff;
+}
+.hotOffers {
+  width: 1249px;
+  height: 296px;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  align-content: space-between;
+  padding: 60px 0 0;
+}
+.texts {
+  width: 198px;
+  height: 221px;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 11px;
+}
+.inMansouryDailyYouCanFindTheHi {
+  color: #5f5f5f;
+  font-size: 12px;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  align-self: stretch;
+  text-align: justify;
+  flex-direction: column;
+}
+.carousel {
+  width: 949px;
+  height: min-content;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: flex-start;
+  align-content: space-between;
+}
+.banners {
+  width: 1244px;
+  height: 772px;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  align-content: space-between;
+  padding: 60px 0 0;
+  overflow: hidden;
+}
+.frame4 {
+  position: relative;
+  width: 400px;
+  height: 345px;
+  flex-direction: column;
+  align-items: flex-start;
+  border-radius: 8px;
+  background-image:/* webpackIgnore: true */ url('/assets/frame4.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow: hidden;
+}
+.frame11 {
+  position: absolute;
+  left: 239px;
+  top: 50%;
+  width: 272px;
+  height: 93px;
+  flex-direction: column;
+  align-items: flex-start;
+  border-radius: 8px;
+  background-color: #00000026;
+  transform: translateY(-50%);
+}
+.quickAndHot {
+  color: #fff;
+  font-size: 20px;
+  font-weight: bold;
+  font-family: Lato, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 17px;
+  top: 43px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+._30OFF {
+  color: #f6f6f6;
+  font-size: 14px;
+  font-weight: 500;
+  font-family: Lato, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 20px;
+  top: 26px;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.frame2 {
+  position: relative;
+  width: 400px;
+  height: 345px;
+  flex-direction: column;
+  align-items: flex-start;
+  border-radius: 8px;
+  background-image:/* webpackIgnore: true */ url('/assets/frame2.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow: hidden;
+}
+.frame10 {
+  position: absolute;
+  left: 200px;
+  top: 50%;
+  width: 203px;
+  height: 93px;
+  flex-direction: column;
+  align-items: flex-start;
+  border-radius: 8px;
+  background-color: #00000026;
+  transform: translateY(-50%);
+}
+.kitchenwareFromTopBrands {
+  position: absolute;
+  left: 19px;
+  top: 31px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.textBlock {
+  color: #fff;
+  font-size: 20px;
+  font-weight: bold;
+  font-family: Lato, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock2 {
+  margin-top: 0;
+  color: #fff;
+  font-size: 20px;
+  font-weight: bold;
+  font-family: Lato, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+._30OFF2 {
+  color: #f6f6f6;
+  font-size: 14px;
+  font-weight: 500;
+  font-family: Lato, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 22px;
+  top: 14px;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.frame3 {
+  position: relative;
+  width: 400px;
+  height: 345px;
+  flex-direction: column;
+  align-items: flex-start;
+  border-radius: 8px;
+  background-image:/* webpackIgnore: true */ url('/assets/frame3.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow: hidden;
+}
+.frame9 {
+  position: absolute;
+  left: 194px;
+  top: 50%;
+  width: 272px;
+  height: 93px;
+  flex-direction: column;
+  align-items: flex-start;
+  border-radius: 8px;
+  background-color: #00000026;
+  transform: translateY(-50%);
+}
+.travelWithQuality {
+  color: #fff;
+  font-size: 20px;
+  font-weight: bold;
+  font-family: Lato, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 19px;
+  top: 43px;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+._25OFF {
+  color: #f6f6f6;
+  font-size: 14px;
+  font-weight: 500;
+  font-family: Lato, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 18px;
+  top: 26px;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.frame5 {
+  position: relative;
+  width: 610px;
+  height: 345px;
+  flex-direction: column;
+  align-items: flex-start;
+  border-radius: 8px;
+  background-image:/* webpackIgnore: true */ url('/assets/frame5.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow: hidden;
+}
+.frame8 {
+  position: absolute;
+  left: 346px;
+  top: 50%;
+  width: 272px;
+  height: 93px;
+  flex-direction: column;
+  align-items: flex-start;
+  border-radius: 8px;
+  background-color: #00000026;
+  transform: translateY(-50%);
+}
+.coolAndHighQualityRefrigerator {
+  position: absolute;
+  left: 19px;
+  top: 31px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.textBlock3 {
+  color: #fff;
+  font-size: 20px;
+  font-weight: bold;
+  font-family: Lato, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock4 {
+  margin-top: 0;
+  color: #fff;
+  font-size: 20px;
+  font-weight: bold;
+  font-family: Lato, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+._30OFF3 {
+  color: #f6f6f6;
+  font-size: 14px;
+  font-weight: 500;
+  font-family: Lato, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 22px;
+  top: 14px;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.frame6 {
+  position: relative;
+  width: 607px;
+  height: 345px;
+  flex-direction: column;
+  align-items: flex-start;
+  border-radius: 8px;
+  background-image:/* webpackIgnore: true */ url('/assets/frame6.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow: hidden;
+}
+.frame7 {
+  position: absolute;
+  left: 353px;
+  top: 50%;
+  width: 272px;
+  height: 93px;
+  flex-direction: column;
+  align-items: flex-start;
+  border-radius: 8px;
+  background-color: #00000026;
+  overflow: hidden;
+  transform: translateY(-50%);
+}
+.cleanAndGleamingClothes {
+  position: absolute;
+  left: 18px;
+  top: 31px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.textBlock5 {
+  color: #fff;
+  font-size: 20px;
+  font-weight: bold;
+  font-family: Lato, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock6 {
+  margin-top: 0;
+  color: #fff;
+  font-size: 20px;
+  font-weight: bold;
+  font-family: Lato, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+._30OFF4 {
+  color: #f6f6f6;
+  font-size: 14px;
+  font-weight: 500;
+  font-family: Lato, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 21px;
+  top: 14px;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.products2 {
+  width: 1241px;
+  height: 717px;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  padding: 60px 0;
+  overflow: hidden;
+}
+.container3 {
+  width: 1234px;
+  height: min-content;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  gap: 16px;
+}
+.products3 {
+  width: 1241px;
+  height: 345px;
+  flex-direction: column;
+  align-items: flex-end;
+  padding: 0 168px;
+  border-radius: 8px;
+  background-image:/* webpackIgnore: true */ url('/assets/products.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow: hidden;
+}
+.frame12 {
+  width: 318px;
+  flex: 1;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  gap: 10px;
+  padding: 81px 60px;
+  background-color: #00000040;
+  overflow: hidden;
+}
+.mansourySteel10PieceCookwareSe {
+  height: min-content;
+  align-self: stretch;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.textBlock7 {
+  color: #fff;
+  font-size: 31px;
+  line-height: 150%;
+  font-weight: bold;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock8 {
+  margin-top: 0;
+}
+.labelWrapper {
+  font-size: 24px;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.label {
+  color: #fff;
+  font-size: 24px;
+  line-height: 150%;
+  font-weight: bold;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.features {
+  width: 1241px;
+  height: min-content;
+  justify-content: space-between;
+  align-items: flex-start;
+  padding: 30px 0;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: inset 0px -1px 0px #00000026;
+}
+.item {
+  width: 270px;
+  height: min-content;
+  align-items: center;
+  gap: 10px;
+  overflow: hidden;
+}
+.texts2 {
+  height: min-content;
+  flex: 1;
+  flex-direction: column;
+  justify-content: center;
+  gap: 10px;
+  padding: 16px 0 16px 16px;
+  overflow: hidden;
+}
+.onlineSupport {
+  color: #000;
+  font-size: 16px;
+  font-weight: bold;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.dedicatedSupportTeam {
+  color: #000;
+  font-size: 14px;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.item2 {
+  width: 270px;
+  height: min-content;
+  align-items: center;
+  gap: 10px;
+  overflow: hidden;
+}
+.texts3 {
+  height: min-content;
+  flex: 1;
+  flex-direction: column;
+  justify-content: center;
+  gap: 10px;
+  padding: 16px 0 16px 16px;
+  overflow: hidden;
+}
+.freeShipping {
+  color: #000;
+  font-size: 16px;
+  font-weight: bold;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.purchasesOver100 {
+  color: #000;
+  font-size: 14px;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.item3 {
+  width: 270px;
+  height: min-content;
+  align-items: center;
+  gap: 10px;
+  overflow: hidden;
+}
+.texts4 {
+  height: min-content;
+  flex: 1;
+  flex-direction: column;
+  justify-content: center;
+  gap: 10px;
+  padding: 16px 0 16px 16px;
+  overflow: hidden;
+}
+.timelessShopping {
+  color: #000;
+  font-size: 16px;
+  font-weight: bold;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+._247Purchasing {
+  color: #000;
+  font-size: 14px;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.item4 {
+  width: 270px;
+  height: min-content;
+  align-items: center;
+  gap: 10px;
+  overflow: hidden;
+}
+.texts5 {
+  height: min-content;
+  flex: 1;
+  flex-direction: column;
+  justify-content: center;
+  gap: 10px;
+  padding: 16px 0 16px 16px;
+  overflow: hidden;
+}
+.productReturns {
+  color: #000;
+  font-size: 16px;
+  font-weight: bold;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.noQuestionsAskedReturns {
+  color: #000;
+  font-size: 14px;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.footer {
+  width: 1241px;
+  height: min-content;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: flex-start;
+  align-content: space-between;
+  padding: 10px 0 0;
+  overflow: hidden;
+}
+.column {
+  width: 270px;
+  height: min-content;
+  flex-direction: column;
+  justify-content: center;
+  gap: 10px;
+  padding: 16px 0 16px 16px;
+  overflow: hidden;
+}
+.stayConnected {
+  color: #000;
+  font-size: 20px;
+  font-weight: bold;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: 38px;
+  align-self: stretch;
+  flex-direction: column;
+}
+.addressIstanbulTurkey {
+  color: #000;
+  font-size: 14px;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.phone909859875 {
+  color: #000;
+  font-size: 14px;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.followUs2 {
+  height: 82px;
+  align-self: stretch;
+  flex-direction: column;
+  justify-content: center;
+  gap: 10px;
+  padding: 16px 0 0;
+}
+.followUsOnSocialMedia {
+  color: #000;
+  font-size: 16px;
+  font-weight: 600;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.holder {
+  height: min-content;
+  align-self: stretch;
+  align-items: center;
+  overflow: hidden;
+}
+.column2 {
+  width: 270px;
+  height: min-content;
+  flex-direction: column;
+  justify-content: center;
+  gap: 10px;
+  padding: 16px 0 16px 16px;
+  overflow: hidden;
+}
+.mansoury2 {
+  color: #000;
+  font-size: 20px;
+  font-weight: bold;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: 38px;
+  align-self: stretch;
+  flex-direction: column;
+}
+.aboutUs2 {
+  color: #000;
+  font-size: 14px;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.careers {
+  color: #000;
+  font-size: 14px;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.collaboration {
+  color: #000;
+  font-size: 14px;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.dashboard {
+  color: #000;
+  font-size: 14px;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.policies {
+  color: #000;
+  font-size: 14px;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.column3 {
+  width: 270px;
+  height: min-content;
+  flex-direction: column;
+  justify-content: center;
+  gap: 10px;
+  padding: 16px 0 16px 16px;
+  overflow: hidden;
+}
+.customerServices {
+  color: #000;
+  font-size: 20px;
+  font-weight: bold;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: 38px;
+  align-self: stretch;
+  flex-direction: column;
+}
+.rulesAndRegulations {
+  color: #000;
+  font-size: 14px;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.termsOfUse {
+  color: #000;
+  font-size: 14px;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.returnProcedures {
+  color: #000;
+  font-size: 14px;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.privacyPolicy {
+  color: #000;
+  font-size: 14px;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.forums {
+  color: #000;
+  font-size: 14px;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.column4 {
+  width: 270px;
+  height: min-content;
+  flex-direction: column;
+  justify-content: center;
+  gap: 10px;
+  padding: 16px 0 16px 16px;
+  overflow: hidden;
+}
+.quickAccess {
+  color: #000;
+  font-size: 20px;
+  font-weight: bold;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: 38px;
+  align-self: stretch;
+  flex-direction: column;
+}
+.contactUs3 {
+  color: #000;
+  font-size: 14px;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.blog {
+  color: #000;
+  font-size: 14px;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.returnsAndRefunds {
+  color: #000;
+  font-size: 14px;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.trackOrder {
+  color: #000;
+  font-size: 14px;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.fAQ {
+  color: #000;
+  font-size: 14px;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.frame13 {
+  position: relative;
+  height: 58px;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  background-color: #438db8;
+  overflow: hidden;
+}
+.AllRightsReservedForMansoury20 {
+  color: #fff;
+  font-size: 14px;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: calc(50% - -28.5px);
+  top: calc(50% - 0.5px);
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+  transform: translate(-50%, -50%);
+}
