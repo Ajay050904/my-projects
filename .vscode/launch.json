@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "AgeCalculator",
+            "request": "launch",
+            "mainClass": "AgeCalculator",
+            "projectName": ""
+        },
+        {
+            "type": "java",
             "name": "MainApp",
             "request": "launch",
             "mainClass": "DataFlowApp/com.data.student.MainApp",
