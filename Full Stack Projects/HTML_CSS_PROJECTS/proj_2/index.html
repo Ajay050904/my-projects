@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Mini Quiz Game</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <div class="quiz-container">
+        <h1>Quick Quiz Game</h1>
+
+        <div id="quiz-box">
+            <div id="question">Question text will go here</div>
+
+            <div id="options">
+                <!-- Options will be created by JavaScript -->
+            </div>
+
+            <button id="next-btn" disabled>Next Question</button>
+
+            <div id="status">
+                Question <span id="current">1</span> of <span id="total">5</span>
+            </div>
+        </div>
+
+        <div id="result-box" class="hidden">
+            <h2>Your Score</h2>
+            <p id="score-text"></p>
+            <button id="restart-btn">Play Again</button>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
