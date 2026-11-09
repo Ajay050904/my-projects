@@ -4,7 +4,7 @@
 	"name": "Node.js + Java",
 	"image": "mcr.microsoft.com/devcontainers/javascript-node:1-22-bookworm",
 	"features": {
-		"ghcr.io/nikiforovall/devcontainer-features/dotnet-csharpier:1": {},
+		"ghcr.io/nikiforovall/devcontainer-features/dotnet-csharpier:2": {},
 		// ✅ Add this line to include Java (you can set version)
 		"ghcr.io/devcontainers/features/java:1": {
 			"version": "21"
